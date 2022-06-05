@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZnKRrjK9qgPw5i9H3zR3tkf0S8vTB9RLYArwVOo2FNfWOfCVzPmk3p5X4Qge4YOQun+gWud/1EKgaqoqzjqqxg==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\Faculdade\\Trabalho_Redes_Luciene_5_Termo\\MQTT_Broker\\MQTTSubscriber\\MQTTSubscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kauan\\.nuget\\packages\\mqttnet\\3.1.0\\mqttnet.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
