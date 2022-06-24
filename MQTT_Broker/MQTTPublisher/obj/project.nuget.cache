@@ -1,14 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q2axmqyAFNUwqP3md0gZ2816nq+XRh9FV3HLLRU20dza3MiDotRw9QBUkFYmffIz2+IRbydoA/0ZXozfI1GyFg==",
+  "dgSpecHash": "qvDiE4RWAXRX6jajIbUjnixqkJBwIBIEuciRWkJpRxububBuaPqwi3RzoUG0ETR2zo9huVo9OsOePaNR4WQr1g==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Faculdade\\Trabalho_Redes_Luciene_5_Termo\\MQTT_Broker\\MQTTPublisher\\MQTTPublisher.csproj",
+  "projectFilePath": "D:\\Dev\\Faculdade\\Trabalho-Redes-5-Termo\\MQTT_Broker\\MQTTPublisher\\MQTTPublisher.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Kauan\\.nuget\\packages\\mqttnet\\3.1.0\\mqttnet.3.1.0.nupkg.sha512",
-    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
-    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Kauan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\Kauan\\.nuget\\packages\\mqttnet\\3.1.0\\mqttnet.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

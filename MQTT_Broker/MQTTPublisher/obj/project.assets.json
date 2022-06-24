@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Faculdade\\Trabalho_Redes_Luciene_5_Termo\\MQTT_Broker\\MQTTPublisher\\MQTTPublisher.csproj",
+      "projectUniqueName": "D:\\Dev\\Faculdade\\Trabalho-Redes-5-Termo\\MQTT_Broker\\MQTTPublisher\\MQTTPublisher.csproj",
       "projectName": "MQTTPublisher",
-      "projectPath": "D:\\Dev\\Faculdade\\Trabalho_Redes_Luciene_5_Termo\\MQTT_Broker\\MQTTPublisher\\MQTTPublisher.csproj",
+      "projectPath": "D:\\Dev\\Faculdade\\Trabalho-Redes-5-Termo\\MQTT_Broker\\MQTTPublisher\\MQTTPublisher.csproj",
       "packagesPath": "C:\\Users\\Kauan\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\Faculdade\\Trabalho_Redes_Luciene_5_Termo\\MQTT_Broker\\MQTTPublisher\\obj\\",
+      "outputPath": "D:\\Dev\\Faculdade\\Trabalho-Redes-5-Termo\\MQTT_Broker\\MQTTPublisher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kauan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,24 +101,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.23, 3.1.23]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

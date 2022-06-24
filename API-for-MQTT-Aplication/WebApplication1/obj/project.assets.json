@@ -629,11 +629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Faculdade\\Trabalho_Redes_Luciene_5_Termo\\API-for-MQTT-Aplication\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Dev\\Faculdade\\Trabalho-Redes-5-Termo\\API-for-MQTT-Aplication\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Dev\\Faculdade\\Trabalho_Redes_Luciene_5_Termo\\API-for-MQTT-Aplication\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Dev\\Faculdade\\Trabalho-Redes-5-Termo\\API-for-MQTT-Aplication\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Kauan\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\Faculdade\\Trabalho_Redes_Luciene_5_Termo\\API-for-MQTT-Aplication\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Dev\\Faculdade\\Trabalho-Redes-5-Termo\\API-for-MQTT-Aplication\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kauan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -681,24 +681,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.23, 3.1.23]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
